@@ -1,0 +1,13 @@
+kaggle
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+nltk
+tensorflow-text
+ipython
+streamlit
+Pillow
